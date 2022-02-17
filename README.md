@@ -1,4 +1,4 @@
-# CitiBike_Tableau_Project
+# CitiBike_Tableau_Visuals
 ## How has number of rides and average trip duration changed between 2019 and 2020, the year of the COVID-19 lockdown in the U.S. Why could this be the case?
 
 
