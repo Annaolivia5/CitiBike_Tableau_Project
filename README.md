@@ -1,10 +1,10 @@
-#$ CitiBike_Tableau_Visuals
+## CitiBike_Tableau_Visuals
 
-# How has the number of rides and average trip duration changed between 2019 and 2020, the year of the COVID-19 lockdown in the U.S.?
+How has the number of rides and average trip duration changed between 2019 and 2020, the year of the COVID-19 lockdown in the U.S.?
 
-# Did the usage of the bikes change for non-subscribers and subscribers? What could this tell us?
+Did the usage of the bikes change for non-subscribers and subscribers? What could this tell us?
 
-# The most/least popular start and end stations are visualized using a map.
+The most/least popular start and end stations are visualized using a map.
 
 
 
